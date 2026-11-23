@@ -72,34 +72,21 @@
 
 <img src="./assets/heading.svg" width="100%" alt="Divider"/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏫 <a href="https://github.com/jelialvonzolaia-sys/siakad-sekolah">SIAKAD &amp; LMS SMA Negeri 1 Gunungsitoli</a></h4>
-      <p>Sistem Informasi Akademik &amp; Learning Management System multi-role (Admin TU, Guru, Siswa) dengan validasi presensi GPS &amp; QR Code dinamis, tugas rich-text, jadwal ujian, help desk, dan notifikasi real-time.</p>
-      <code>Laravel 11</code> • <code>MySQL</code> • <code>Tailwind CSS</code> • <code>Alpine.js</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏪 <a href="https://github.com/Chalbn/PASKA-JAYA">PASKA JAYA — Store Management System</a></h4>
-      <p>Aplikasi manajemen operasional toko multi-role (Owner, Kasir, Karyawan, Admin) untuk pengelolaan stok barang, transaksi penjualan, pencatatan piutang pelanggan (bon), dan rekonsiliasi kas shift.</p>
-      <code>Laravel</code> • <code>Livewire</code> • <code>Tailwind CSS</code> • <code>MySQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏛️ <a href="https://github.com/jelialvonzolaia-sys/rumah-adat-sumut">Semantic Search Rumah Adat Sumatera Utara</a></h4>
-      <p>Mesin pencari berbasis teknologi Web Semantik (RDF/Turtle &amp; SPARQL) yang memetakan arsitektur, filosofi, dan wilayah rumah adat di Sumatera Utara dalam bentuk <i>Knowledge Graph</i> interaktif.</p>
-      <code>Laravel</code> • <code>SPARQL / EasyRdf</code> • <code>Vis-Network</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏥 <a href="https://github.com/jelialvonzolaia-sys">Klinik Murni — Relational Database Architecture</a></h4>
-      <p>Perancangan arsitektur basis data PostgreSQL tingkat lanjut dengan pemisahan multi-skema, tipe data kustom (<code>ENUM</code> &amp; <code>COMPOSITE</code>), kolom array, serta pewarisan tabel (<code>INHERITS</code>).</p>
-      <code>PostgreSQL</code> • <code>SQL</code> • <code>Database Design</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
+<div align="center">
+  <a href="https://github.com/jelialvonzolaia-sys/siakad-sekolah">
+    <img src="./assets/card-siakad.svg" width="49%" alt="SIAKAD & LMS SMANSA"/>
+  </a>
+  <a href="https://github.com/Chalbn/PASKA-JAYA">
+    <img src="./assets/card-paska.svg" width="49%" alt="PASKA JAYA Store Management"/>
+  </a>
+  <br/>
+  <a href="https://github.com/jelialvonzolaia-sys/rumah-adat-sumut">
+    <img src="./assets/card-semantic.svg" width="49%" alt="Semantic Search Rumah Adat Sumut"/>
+  </a>
+  <a href="https://github.com/jelialvonzolaia-sys">
+    <img src="./assets/card-klinik.svg" width="49%" alt="Klinik Murni PostgreSQL"/>
+  </a>
+</div>
 
 ### 📊 `04.` GitHub Telemetry & Activity
 
