@@ -1,0 +1,28 @@
+<svg width="100%" height="120" viewBox="0 0 920 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="auroraBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#080C14" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#080C14" />
+    </linearGradient>
+    <linearGradient id="waveLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0.25" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.25" />
+    </linearGradient>
+  </defs>
+  <rect width="920" height="120" rx="16" fill="url(#auroraBg)" stroke="#1E293B" stroke-width="1" />
+  <path fill="none" stroke="url(#waveLine)" stroke-width="2">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="
+        M0,78 Q230,48 460,78 T920,68;
+        M0,68 Q230,98 460,68 T920,82;
+        M0,78 Q230,48 460,78 T920,68
+      " />
+  </path>
+  <text x="460" y="48" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, sans-serif" font-size="15" font-weight="600" letter-spacing="0.5">
+    Crafting purposeful software with precision &amp; clarity.
+  </text>
+  <text x="460" y="102" text-anchor="middle" fill="#64748B" font-family="Consolas, monospace" font-size="12">
+    Jeli Alvonzo Laia • @jelialvnzo • Medan, Indonesia
+  </text>
+</svg>
