@@ -1,0 +1,47 @@
+<svg width="100%" height="215" viewBox="0 0 440 215" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgPaska" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#091124" />
+      <stop offset="100%" stop-color="#111E3D" />
+    </linearGradient>
+    <radialGradient id="glowPaska" cx="90%" cy="15%" r="60%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.26" />
+      <stop offset="100%" stop-color="#091124" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="440" height="215" rx="16" fill="url(#bgPaska)" stroke="#1E3A5F" stroke-width="1.5" />
+  <rect width="440" height="215" rx="16" fill="url(#glowPaska)" />
+  <rect x="0" y="24" width="4" height="44" rx="2" fill="#38BDF8" />
+
+  
+  <rect x="24" y="22" width="128" height="24" rx="12" fill="#0C4A6E" stroke="#38BDF8" stroke-opacity="0.4" />
+  <text x="88" y="38" text-anchor="middle" fill="#BAE6FD" font-family="Segoe UI, sans-serif" font-size="10.5" font-weight="700">POS &amp; ERP • LIVEWIRE</text>
+  <text x="414" y="39" text-anchor="end" fill="#38BDF8" font-family="Consolas, monospace" font-size="13" font-weight="bold">↗ Repo</text>
+
+  
+  <text x="24" y="74" fill="#FFFFFF" font-family="Segoe UI, sans-serif" font-size="17.5" font-weight="800">
+    PASKA JAYA — Store Management
+  </text>
+
+  
+  <g fill="#94A3B8" font-family="Segoe UI, sans-serif" font-size="12.5">
+    <text x="24" y="102">Sistem operasional toko bangunan multi-role (Owner,</text>
+    <text x="24" y="121">Kasir, Karyawan, Admin) untuk stok inventori, kasir</text>
+    <text x="24" y="140">penjualan, piutang pelanggan (bon) &amp; tutup kas shift.</text>
+  </g>
+
+  
+  <g transform="translate(24, 165)" font-family="Consolas, monospace" font-size="11" font-weight="600">
+    <rect width="78" height="26" rx="7" fill="#0C4A6E" fill-opacity="0.7" />
+    <text x="39" y="17" text-anchor="middle" fill="#7DD3FC">Laravel</text>
+
+    <rect x="86" width="82" height="26" rx="7" fill="#0C4A6E" fill-opacity="0.7" />
+    <text x="127" y="17" text-anchor="middle" fill="#7DD3FC">Livewire</text>
+
+    <rect x="176" width="84" height="26" rx="7" fill="#0C4A6E" fill-opacity="0.7" />
+    <text x="218" y="17" text-anchor="middle" fill="#7DD3FC">Tailwind</text>
+
+    <rect x="268" width="64" height="26" rx="7" fill="#0C4A6E" fill-opacity="0.7" />
+    <text x="300" y="17" text-anchor="middle" fill="#7DD3FC">MySQL</text>
+  </g>
+</svg>
