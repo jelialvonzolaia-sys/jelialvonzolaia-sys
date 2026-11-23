@@ -8,28 +8,9 @@
 
 <img src="./assets/heading.svg" width="100%" alt="Divider"/>
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <p>
-        Halo! Saya <b>Jeli Alvonzo Laia</b>, mahasiswa S1 <b>Teknologi Informasi</b> di <i>Fakultas Ilmu Komputer dan Teknologi Informasi (Fasilkom-TI), Universitas Sumatera Utara</i>.
-      </p>
-      <p>
-        Saya berfokus pada pengembangan aplikasi web <i>full-stack</i> berbasis <b>Laravel</b>, perancangan basis data relasional (<b>MySQL &amp; PostgreSQL</b>), rekayasa <b>Semantic Web (RDF/OWL/SPARQL)</b>, serta desain antarmuka modern yang bersih, responsif, dan berorientasi pada pengalaman pengguna.
-      </p>
-    </td>
-    <td width="45%" valign="top">
-      <ul>
-        <li>💻 <b>Fokus Utama:</b> Full-Stack Web Development &amp; UI/UX Systems.</li>
-        <li>🧠 <b>Eksplorasi:</b> Knowledge Graph, Ontology Engineering, &amp; Arsitektur Aplikasi Multi-Role.</li>
-        <li>🎓 <b>Komunitas:</b> Google Developer Group on Campus (GDGoC) USU — UI/UX Path.</li>
-        <li>🤝 <b>Status:</b> Terbuka untuk kolaborasi proyek perangkat lunak &amp; pengembangan web.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
+<div align="center">
+  <img src="./assets/about-scrapbook.svg" width="100%" alt="About Jeli Alvonzo Laia"/>
+</div>
 
 ### 🛠️ `02.` Tech Stack & Tools
 
