@@ -1,0 +1,47 @@
+<svg width="100%" height="215" viewBox="0 0 440 215" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgSemantic" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A110B" />
+      <stop offset="100%" stop-color="#291A10" />
+    </linearGradient>
+    <radialGradient id="glowSemantic" cx="90%" cy="15%" r="60%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#1A110B" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="440" height="215" rx="16" fill="url(#bgSemantic)" stroke="#452715" stroke-width="1.5" />
+  <rect width="440" height="215" rx="16" fill="url(#glowSemantic)" />
+  <rect x="0" y="24" width="4" height="44" rx="2" fill="#F59E0B" />
+
+  
+  <rect x="24" y="22" width="142" height="24" rx="12" fill="#451A03" stroke="#F59E0B" stroke-opacity="0.45" />
+  <text x="95" y="38" text-anchor="middle" fill="#FDE68A" font-family="Segoe UI, sans-serif" font-size="10.5" font-weight="700">SEMANTIC WEB • RDF</text>
+  <text x="414" y="39" text-anchor="end" fill="#FBBF24" font-family="Consolas, monospace" font-size="13" font-weight="bold">↗ Repo</text>
+
+  
+  <text x="24" y="74" fill="#FFFFFF" font-family="Segoe UI, sans-serif" font-size="17.5" font-weight="800">
+    Semantic Search Rumah Adat Sumut
+  </text>
+
+  
+  <g fill="#A8A29E" font-family="Segoe UI, sans-serif" font-size="12.5">
+    <text x="24" y="102">Mesin pencari berbasis ontologi RDF/Turtle dan</text>
+    <text x="24" y="121">SPARQL yang memetakan arsitektur &amp; filosofi rumah</text>
+    <text x="24" y="140">adat Sumatera Utara dalam Knowledge Graph interaktif.</text>
+  </g>
+
+  
+  <g transform="translate(24, 165)" font-family="Consolas, monospace" font-size="11" font-weight="600">
+    <rect width="78" height="26" rx="7" fill="#451A03" fill-opacity="0.8" />
+    <text x="39" y="17" text-anchor="middle" fill="#FCD34D">Laravel</text>
+
+    <rect x="86" width="74" height="26" rx="7" fill="#451A03" fill-opacity="0.8" />
+    <text x="123" y="17" text-anchor="middle" fill="#FCD34D">SPARQL</text>
+
+    <rect x="168" width="84" height="26" rx="7" fill="#451A03" fill-opacity="0.8" />
+    <text x="210" y="17" text-anchor="middle" fill="#FCD34D">EasyRdf</text>
+
+    <rect x="260" width="96" height="26" rx="7" fill="#451A03" fill-opacity="0.8" />
+    <text x="308" y="17" text-anchor="middle" fill="#FCD34D">Vis-Network</text>
+  </g>
+</svg>
